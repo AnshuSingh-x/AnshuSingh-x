@@ -2,18 +2,21 @@
 
 
 ## 🚀 About Me
-I'm a full stack Data Scientist
+I'm a Big Data Engineer
 
 
 ## 🛠 Skills
 * Python
-* Power BI
 * SQL
-* Machine Learning
-* Deep Learning
+* Power BI
 * Git
 * Docker
-* NLP
+* PySpark
+* AZure
+* Airflow
+* Databricks
+* Hadoop
+* kafka  
 
 
 <!---
