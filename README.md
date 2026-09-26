@@ -2,22 +2,17 @@
 
 
 ## 🚀 About Me
-I'm a Big Data Engineer
+I'm a Data Analyst
 
 
 ## 🛠 Skills
 * Python
 * SQL
 * Power BI
-* Git
-* Docker
+* Excel
 * PySpark
 * AZure
-* Airflow
 * Databricks
-* Hadoop
-* kafka  
-
 
 <!---
 AnshuSingh-x/AnshuSingh-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
